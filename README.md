@@ -14,5 +14,5 @@ to use
 
 ```
 cd images/
-smart-batch-resize
+smart-batch-resize width height
 ```
